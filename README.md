@@ -17,19 +17,18 @@
 
 4. Setting up the environment for Spark:
 
-  To set up environment variable: <br>
-  Add following lines to your `~/.bashrc`
+    To set up environment variable:
+    
+    Add following lines to your `~/.bashrc`
 
 ```
   export SPARK_HOME=/Users/nipunsadvilkar/tools/spark-2.2.1-bin-hadoop2.7
   export PATH=$SPARK_HOME/bin:$PATH
 ```
-
-
    Make sure you change the path in `SPARK_HOME` as per your spark software file are located.
    Reload your `~/.bashrc` file using:
 
-  ```
+```
   $ source ~/.bashrc
   ```
 
