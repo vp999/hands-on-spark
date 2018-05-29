@@ -1,12 +1,13 @@
 # Installation
 
-1. Visit:  http://spark.apache.org/downloads.html
+1. Visit Apache Spark Downloads page
+
+    http://spark.apache.org/downloads.html
 
 2. Select following options
-
-  1. Choose a Spark release: *2.2.x* or greater (I'll be using 2.2.1)
-  2. Choose a package type:  *Pre-built for Apache Hadoop 2.7 and later*
-  3. Download Spark: *spark-2.2.1-bin-hadoop2.7.tgz*
+    1. Choose a Spark release: **2.2.x** or greater (I'll be using 2.2.1)
+    2. Choose a package type:  **Pre-built for Apache Hadoop 2.7 and later**
+    3. Download Spark: **spark-2.2.1-bin-hadoop2.7.tgz**
 
     Download that tar compressed file to your local machine.
 
